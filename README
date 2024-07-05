@@ -1,0 +1,3 @@
+# dpop flow debugger
+
+A simple tool to help step through the DPoP client flow. Not intended to be used for actual DPoP client implementations, intentionally simplified to learn the flow.
